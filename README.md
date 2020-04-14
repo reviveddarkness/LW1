@@ -6,8 +6,8 @@
 - You run an executable for the Windows Installation.
 - If you already have Perl installed you can use cpan[1]> upgrade to update your existing version to the most latest. 
   However, updating your operating system should include these updates automatically. (Unless you’re on Windows)
-- Once Perl is installed and updated, you can run download the repository by clicking "clone or download" and run programs with the
-  command perl -- filename. For additional run parameters, 
+- Once Perl is installed and updated, you can run download the repository by clicking "clone or download" at the root of the repository 
+  and run programs with the command perl -- filename. For additional run parameters, 
   which you definitely shouldn’t need, you should consult perl documentation.
 - Perl is an interpreted language, so you can simply run the source file using the above command for all examples and it will 
   function. There is no compilation (build) process.
